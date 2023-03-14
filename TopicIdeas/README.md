@@ -32,7 +32,7 @@
 ## 파이썬으로 스타듀밸리(Stardew Valley) 게임 만들기
 * 분야: 게임, 데스크탑 앱
 * 출처: https://youtu.be/T4IX36sP_0c, https://github.com/clear-code-projects/PyDew-Valley
-* 요약: Pygame과 Tiled를 이용하여 유명 게임인 스타듀밸리(Stardew Valley) 스타일의 농사와 사냥, 낮과 밤의 순환, 날씨 효과, 상거래 시스템 등이 존재하는 게임을 구현해보기
+* 요약: Pygame과 Tiled를 이용하여 유명 게임인 스타듀밸리(Stardew Valley) 스타일의 농사와 사냥, 낮과 밤의 순환, 날씨 효과, 상거래 시스템 등이 존재하는 게임 구현해보기
 <p align="center"><img src="https://user-images.githubusercontent.com/49047536/224970386-53f0002b-bff4-4a18-a17f-45bb9035536c.png" width="640" /></p>
 
 ## C++로 오디오 플러그인 구축하기
@@ -51,3 +51,9 @@
 * 출처: https://youtu.be/rhFSR6XHApw
 * 요약: .NET Core의 WPF를 이용하여 나만의 VPN 앱 구현해보기
 <p align="center"><img src="https://user-images.githubusercontent.com/49047536/224977688-52cfd977-4db5-4457-998d-10c4279862e6.png" width="640" /></p>
+
+## C#으로 교회 관리 시스템 만들기
+* 분야: 데스크탑 앱
+* 출처: https://youtu.be/856-hjyDrXs
+* 요약: C# .Net 및 SQL Server를 이용하여 교회 관리 시스템 구현해보기
+<p align="center"><img src="https://user-images.githubusercontent.com/49047536/224979760-6d153e41-a762-43df-90f3-c55678acb3f8.png" width="640" /></p>
