@@ -28,3 +28,9 @@
 * 분야: 웹 서비스
 * 출처: https://nevonprojects.com/ebug-tracker-bug-tracking-system-project/
 * 요약: 프로젝트나 시스템에서 버그를 식별하고 추적하는데 도움을 주며, 관리자, 직원 및 사용자 세 가지 모듈이 있어 각각 역할에 맞게 프로젝트 관리 및 문제 해결을 할 수 있게 해주는 웹 앱
+
+## 파이썬으로 스타듀밸리(Stardew Valley) 게임 만들기
+* 분야: 게임, 데스크탑 앱
+* 출처: https://youtu.be/T4IX36sP_0c, https://github.com/clear-code-projects/PyDew-Valley
+* 요약: Pygame과 Tiled를 이용하여 유명 게임인 스타듀밸리(Stardew Valley) 스타일의 농사와 사냥, 낮과 밤의 순환, 날씨 효과, 상거래 시스템 등이 존재하는 게임을 구현해보기
+<p align="center"><img src="https://user-images.githubusercontent.com/49047536/224970386-53f0002b-bff4-4a18-a17f-45bb9035536c.png" width="640" /></p>
