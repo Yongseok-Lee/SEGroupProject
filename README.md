@@ -20,7 +20,7 @@ Group repository for Software Engineering class spring semester 2023 in HGU
 
 ## 0. Project Introduction
 ### 💡 (Project name/topic here)
-> #### * Project Description
+#### * Project Description
 > - (Project description here)
 
 ## 1. Requirement Engineering
