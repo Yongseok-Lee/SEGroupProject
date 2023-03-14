@@ -34,3 +34,12 @@
 * 출처: https://youtu.be/T4IX36sP_0c, https://github.com/clear-code-projects/PyDew-Valley
 * 요약: Pygame과 Tiled를 이용하여 유명 게임인 스타듀밸리(Stardew Valley) 스타일의 농사와 사냥, 낮과 밤의 순환, 날씨 효과, 상거래 시스템 등이 존재하는 게임을 구현해보기
 <p align="center"><img src="https://user-images.githubusercontent.com/49047536/224970386-53f0002b-bff4-4a18-a17f-45bb9035536c.png" width="640" /></p>
+
+## C++로 오디오 플러그인 구축하기
+* 분야: 플러그인, 데스크탑 앱, 데이터 시각화
+* 출처
+  - 이퀄라이저: https://youtu.be/i_Iq4_Kd7Rc, https://github.com/matkatmusic/SimpleEQ, https://www.programmingformusicians.com/simpleeq/
+  - 멀티 밴드 컴프레서: https://youtu.be/Mo0Oco3Vimo, https://github.com/matkatmusic/SimpleMultiBandComp/, https://www.programmingformusicians.com/simplembcomp/
+* 요약: 모던 C++로 처음부터 끝까지 완성된 오디오 플러그인으로 간단한 이퀄라이저 및 멀티 밴드 컴프레서 구현해보기
+<p align="center"><img src="https://user-images.githubusercontent.com/49047536/224973897-2dd31d3a-3e06-4b5d-860e-982a67fa4cec.png" width="640" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/49047536/224974137-e69291ce-1fc8-45ab-973c-620e517c52f6.png" width="640" /></p>
