@@ -34,7 +34,7 @@ Group repository for Software Engineering class spring semester 2023 in HGU
 
 # Group Meeting Records
 | :date: Date | :page_facing_up: Agenda | :boy::girl: Participant |
-|:---:|:---:|:---:|
+|:---:|---|:---:|
 | 2023-03-16 | - The first meeting | 우옥균, 고영광, 김현욱, 이용석, 박서희, 임수현 |
 | 2023-03-23 | - | - |
 | 2023-03-30 | - | - |
