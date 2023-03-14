@@ -16,7 +16,7 @@
 * 분야: 컴퓨터 비전
 * 출처: https://www.geeksforgeeks.org/opencv-python-program-face-detection/
 * 요약: 실시간으로 얼굴을 감지하고 지속적으로 추적하는 간단한 예제
-<p align="center"><img src="https://user-images.githubusercontent.com/49047536/224924092-57ec808f-3fb3-4ea4-a003-7a74f09c877c.png" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/49047536/224924092-57ec808f-3fb3-4ea4-a003-7a74f09c877c.png" width="640" /></p>
 
 ## 안드로이드 작업 모니터링 앱
 * 분야: 모바일 앱, AI
