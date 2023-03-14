@@ -10,14 +10,10 @@
 * 분야: 웹 서비스, 데이터 분석/시각화
 * 출처: https://youtu.be/Cb28ygMxB1k, https://gagip.shinyapps.io/DataVisual/
 * 요약: 오프라인 매장의 공간 효율을 높이기 위해 서로 사용하지 않는 시간대를 공유할 수 있도록 만든 인터렉티브 웹 어플리케이션
-* 사진
-
 <center><img src="https://user-images.githubusercontent.com/49047536/224915414-555e86f4-6d3c-4ca0-b66e-34dafada7037.png" width="640" /></center>
 
 ## 얼굴 인식을 위한 OpenCV Python 프로그램
 * 분야: 컴퓨터 비전
 * 출처: https://www.geeksforgeeks.org/opencv-python-program-face-detection/
 * 요약: 실시간으로 얼굴을 감지하고 지속적으로 추적하는 간단한 예제
-* 사진
-
 <center><img src="https://user-images.githubusercontent.com/49047536/224924092-57ec808f-3fb3-4ea4-a003-7a74f09c877c.png" /></center>
