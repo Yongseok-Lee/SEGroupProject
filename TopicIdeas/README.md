@@ -41,5 +41,7 @@
   - 이퀄라이저: https://youtu.be/i_Iq4_Kd7Rc, https://github.com/matkatmusic/SimpleEQ, https://www.programmingformusicians.com/simpleeq/
   - 멀티 밴드 컴프레서: https://youtu.be/Mo0Oco3Vimo, https://github.com/matkatmusic/SimpleMultiBandComp/, https://www.programmingformusicians.com/simplembcomp/
 * 요약: 모던 C++로 처음부터 끝까지 완성된 오디오 플러그인으로 간단한 이퀄라이저 및 멀티 밴드 컴프레서 구현해보기
-<p align="center"><img src="https://user-images.githubusercontent.com/49047536/224973897-2dd31d3a-3e06-4b5d-860e-982a67fa4cec.png" width="640" /></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/49047536/224974137-e69291ce-1fc8-45ab-973c-620e517c52f6.png" width="640" /></p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49047536/224973897-2dd31d3a-3e06-4b5d-860e-982a67fa4cec.png" width="480" />
+  <img src="https://user-images.githubusercontent.com/49047536/224974137-e69291ce-1fc8-45ab-973c-620e517c52f6.png" width="480" />
+</p>
