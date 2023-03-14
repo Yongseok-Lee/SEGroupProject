@@ -17,3 +17,9 @@
 * 출처: https://www.geeksforgeeks.org/opencv-python-program-face-detection/
 * 요약: 실시간으로 얼굴을 감지하고 지속적으로 추적하는 간단한 예제
 <p align="center"><img src="https://user-images.githubusercontent.com/49047536/224924092-57ec808f-3fb3-4ea4-a003-7a74f09c877c.png" /></p>
+
+## 안드로이드 작업 모니터링 앱
+* 분야: 모바일 앱, AI
+* 출처: https://nevonprojects.com/android-task-monitoring/, https://youtu.be/17tTWjfgVNI
+* 요약: 안드로이드 기기용 주간 작업 알림 시스템을 기반으로 하여 매일 예정된 일정/약속을 사용자에게 알리는 AI 챗봇 기반의 리마인더 앱
+<p align="center"><img src="https://user-images.githubusercontent.com/49047536/224932739-45565b76-8cbc-4831-a3f6-b44f079631c5.png" width="640" /></p>
