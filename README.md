@@ -44,6 +44,6 @@ Group repository for Software Engineering class spring semester 2023 in HGU
 | 2023-05-04 | - | - |
 | 2023-05-11 | - | - |
 | 2023-05-18 | - | - |
-| 2023-05-25 | - Final presentation preparation | - 우옥균, 고영광, 김현욱, 이용석, 박서희, 임수현 |
+| 2023-05-25 | - Final presentation preparation | 우옥균, 고영광, 김현욱, 이용석, 박서희, 임수현 |
 
 # References
