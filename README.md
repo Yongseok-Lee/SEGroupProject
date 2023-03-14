@@ -1,7 +1,7 @@
 # Software Engineering Group Project
 Group repository for Software Engineering class spring semester 2023 in HGU
 
-### 👨🏻‍💻 Group Members 👩🏻‍💻
+### 👨🏻‍💻👩🏻‍💻 Group Members
 > * 21600437, 우옥균
 > * 21700026, 고영광
 > * 21800201, 김현욱
