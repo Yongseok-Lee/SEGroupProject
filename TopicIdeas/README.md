@@ -10,4 +10,5 @@
 1) 분야: 웹 서비스, 데이터 분석/시각화
 2) 출처: https://youtu.be/Cb28ygMxB1k, https://gagip.shinyapps.io/DataVisual/
 3) 요약: 오프라인 매장의 공간 효율을 높이기 위해 서로 사용하지 않는 시간대를 공유할 수 있도록 만든 인터렉티브 웹 어플리케이션
-4) 사진: ![image](https://user-images.githubusercontent.com/49047536/224915414-555e86f4-6d3c-4ca0-b66e-34dafada7037.png)
+4) 사진
+![image](https://user-images.githubusercontent.com/49047536/224915414-555e86f4-6d3c-4ca0-b66e-34dafada7037.png)
