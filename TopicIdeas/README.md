@@ -81,3 +81,9 @@
   4 - 2          (subtract 4 2)            subtract(4, 2)
   2 + (4 - 2)    (add 2 (subtract 4 2))    add(2, subtract(4, 2))
   ```
+
+## OpenCV 활용한 필터 씌우기
+* 분야: OpenCV
+* 출처: https://www.youtube.com/watch?v=XK3eU9egll8&t=3498s, https://www.youtube.com/watch?v=tpWVyJqehG4
+* 요약: OpenCV로 얼굴 인식 후 필터(캐릭터) 씌우기 (셀카 어플 또는 웹)
+<p align="center"><img src="https://images-kr.girlstyle.com/wp-content/uploads/2018/11/M_coverphoto_1000525_%E1%84%83%E1%85%A2%E1%84%8C%E1%85%B5-13.jpg" width="640" /></p>
