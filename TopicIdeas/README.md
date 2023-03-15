@@ -85,5 +85,11 @@
 ## OpenCV 활용한 필터 씌우기
 * 분야: OpenCV
 * 출처: https://www.youtube.com/watch?v=XK3eU9egll8&t=3498s, https://www.youtube.com/watch?v=tpWVyJqehG4
-* 요약: OpenCV로 얼굴 인식 후 필터(캐릭터) 씌우기 (셀카 어플 또는 웹으로 디벨롭 )
+* 요약: OpenCV로 얼굴 인식 후 필터(캐릭터) 씌우기 (셀카 어플 또는 웹으로 디벨롭 가능)
 <p align="center"><img src="https://images-kr.girlstyle.com/wp-content/uploads/2018/11/M_coverphoto_1000525_%E1%84%83%E1%85%A2%E1%84%8C%E1%85%B5-13.jpg" width="640" /></p>
+
+## 아이들을 위한 감정 배우기 클래스
+* 분야: OpenCV
+* 출처: https://m.blog.naver.com/roboholic84/221633210887
+* 요약: OpenCV로 표정 인식, 해당 표정에 대한 감정 형용사 배우기
+<p align="center"><img src="https://mblogthumb-phinf.pstatic.net/MjAxODA1MTdfMTE4/MDAxNTI2NTI0Mjk3NjM3.mFNzx03DGmsB54a42jm04pdEGVviSCOPGFdRab8fl64g.kAyuOnGFBn8z1dHNcBc6JQXr-1DAzIbSDVkQU-fWh8Yg.JPEG.feeling_card/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.JPG?type=w2" width="640" /></p>
