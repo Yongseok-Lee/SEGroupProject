@@ -92,4 +92,4 @@
 * 분야: OpenCV
 * 출처: https://m.blog.naver.com/roboholic84/221633210887
 * 요약: OpenCV로 표정 인식, 해당 표정에 대한 감정 형용사 배우기
-<p align="center"><img src="https://mblogthumb-phinf.pstatic.net/MjAxODA1MTdfMTE4/MDAxNTI2NTI0Mjk3NjM3.mFNzx03DGmsB54a42jm04pdEGVviSCOPGFdRab8fl64g.kAyuOnGFBn8z1dHNcBc6JQXr-1DAzIbSDVkQU-fWh8Yg.JPEG.feeling_card/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.JPG?type=w2" width="640" /></p>
+<p align="center"><img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA4MzBfMTUx/MDAxNTY3MTI3MjYyNzQz.fRdd_U-nyCWT9R9Tc8fCMfseh-lArm95_in8Wz2yqEsg.rWOWyaJBefDXNql0fL001TwLxJ_ts9LaLEsM7dPYAVYg.PNG.roboholic84/EM2.png?type=w800" width="640" /></p>
