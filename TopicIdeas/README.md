@@ -64,3 +64,9 @@
 * 정보: https://stcis.go.kr/wps/main.do , https://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do, https://dsz.kdata.or.kr/svc/page/application/data_analysis_tab.do?extraInfo=tab2
 * 요약: 포항시 데이터 찾아보거나 요청하여 버스 혼잡도를 예측하고 포항시에 솔루션 제출해보기
 <p align="center"><img src="https://user-images.githubusercontent.com/70497430/225341374-274ae5f5-1321-4958-ba76-e14170790eab.png" width="640" /></p>
+
+## 차량 파손 상태 측정
+* 분야: 컴퓨터 비전
+* 출처: https://tech.socarcorp.kr/data/2020/02/13/car-damage-segmentation-model.html, 차량_파손_이미지_데이터 (https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=581)
+* 요약: 차량 파손을 일관적이고 정확하게 측정(사기 줄임)하기 위해 차량 파손 탐지 모델을 구현하기
+<p align="center"><img src="https://tech.socarcorp.kr/img/car-damage-segmentation-model/expected-result.png" width="640" /></p>
