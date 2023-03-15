@@ -63,4 +63,4 @@
 * 출처: https://dacon.io/codeshare/1600
 * 정보: https://stcis.go.kr/wps/main.do , https://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do, https://dsz.kdata.or.kr/svc/page/application/data_analysis_tab.do?extraInfo=tab2
 * 요약: 포항시 데이터 찾아보거나 요청하여 버스 혼잡도를 예측하고 포항시에 솔루션 제출해보기
-<p align="center"><img src="<img width="1168" alt="image" src="https://user-images.githubusercontent.com/70497430/225341374-274ae5f5-1321-4958-ba76-e14170790eab.png" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/70497430/225341374-274ae5f5-1321-4958-ba76-e14170790eab.png" width="640" /></p>
