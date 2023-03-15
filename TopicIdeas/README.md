@@ -57,3 +57,10 @@
 * 출처: https://youtu.be/856-hjyDrXs
 * 요약: C# .Net 및 SQL Server를 이용하여 교회 관리 시스템 구현해보기
 <p align="center"><img src="https://user-images.githubusercontent.com/49047536/224979760-6d153e41-a762-43df-90f3-c55678acb3f8.png" width="640" /></p>
+
+## 포항시 버스 혼잡도 예측 및 시각화를 통한 안전한 버스 승차
+* 분야: 웹or앱 + 데이터분석/시각화
+* 출처: https://dacon.io/codeshare/1600
+* 정보: https://stcis.go.kr/wps/main.do , https://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do, https://dsz.kdata.or.kr/svc/page/application/data_analysis_tab.do?extraInfo=tab2
+* 요약: 포항시 데이터 찾아보거나 요청하여 버스 혼잡도를 예측하고 포항시에 솔루션 제출해보기
+<p align="center"><img src="<img width="1168" alt="image" src="https://user-images.githubusercontent.com/70497430/225341374-274ae5f5-1321-4958-ba76-e14170790eab.png" /></p>
