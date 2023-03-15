@@ -29,7 +29,7 @@
 * 출처: https://nevonprojects.com/ebug-tracker-bug-tracking-system-project/
 * 요약: 프로젝트나 시스템에서 버그를 식별하고 추적하는데 도움을 주며, 관리자, 직원 및 사용자 세 가지 모듈이 있어 각각 역할에 맞게 프로젝트 관리 및 문제 해결을 할 수 있게 해주는 웹 앱
 
-## 파이썬으로 스타듀밸리(Stardew Valley) 게임 만들기
+## Python으로 스타듀밸리(Stardew Valley) 게임 만들기
 * 분야: 게임, 데스크탑 앱
 * 출처: https://youtu.be/T4IX36sP_0c, https://github.com/clear-code-projects/PyDew-Valley
 * 요약: Pygame과 Tiled를 이용하여 유명 게임인 스타듀밸리(Stardew Valley) 스타일의 농사와 사냥, 낮과 밤의 순환, 날씨 효과, 상거래 시스템 등이 존재하는 게임 구현해보기
@@ -59,7 +59,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/49047536/224979760-6d153e41-a762-43df-90f3-c55678acb3f8.png" width="640" /></p>
 
 ## 포항시 버스 혼잡도 예측 및 시각화를 통한 안전한 버스 승차
-* 분야: 웹or앱 + 데이터분석/시각화
+* 분야: 웹 or 앱, 데이터 분석/시각화
 * 출처: https://dacon.io/codeshare/1600
 * 정보: https://stcis.go.kr/wps/main.do , https://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do, https://dsz.kdata.or.kr/svc/page/application/data_analysis_tab.do?extraInfo=tab2
 * 요약: 포항시 데이터 찾아보거나 요청하여 버스 혼잡도를 예측하고 포항시에 솔루션 제출해보기
@@ -70,3 +70,12 @@
 * 출처: https://tech.socarcorp.kr/data/2020/02/13/car-damage-segmentation-model.html, 차량_파손_이미지_데이터 (https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=581)
 * 요약: 차량 파손을 일관적이고 정확하게 측정(사기 줄임)하기 위해 차량 파손 탐지 모델을 구현하기
 <p align="center"><img src="https://tech.socarcorp.kr/img/car-damage-segmentation-model/expected-result.png" width="640" /></p>
+
+## 아주 조그마한 컴파일러 만들기
+* 분야: 컴파일러
+* 출처: https://edykim.com/ko/post/the-super-tiny-compiler/, https://github.com/jamiebuilds/the-super-tiny-compiler
+* 요약: JavaScript 코드 단 200줄로 LISP 스타일(예: Racket, Scheme)의 코드를 C 스타일(예: C/C++/C#, Java, Python)의 코드로 컴파일하는 간단한 컴파일러 작성해보기
+                 LISP 스타일               C 스타일
+  2 + 2          (add 2 2)                 add(2, 2)
+  4 - 2          (subtract 4 2)            subtract(4, 2)
+  2 + (4 - 2)    (add 2 (subtract 4 2))    add(2, subtract(4, 2))
