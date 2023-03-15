@@ -6,10 +6,10 @@
 > * 요약(다른 팀원들이 무슨 내용인지 알 수 있도록 간단하게)
 >   - (optional) 사진, 영상 첨부(이해를 돕기 위해)
 
-## 카멜레존: 빅데이터 기반 공유공간 플랫폼
+## 빅데이터 기반 공유공간 플랫폼
 * 분야: 웹 서비스, 데이터 분석/시각화
 * 출처: https://youtu.be/Cb28ygMxB1k, https://gagip.shinyapps.io/DataVisual/
-* 요약: 오프라인 매장의 공간 효율을 높이기 위해 서로 사용하지 않는 시간대를 공유할 수 있도록 만든 인터렉티브 웹 어플리케이션
+* 요약: 오프라인 매장의 공간 효율을 높이기 위해 서로 사용하지 않는 시간대를 공유할 수 있도록 만든 인터렉티브 웹
 <p align="center"><img src="https://user-images.githubusercontent.com/49047536/224915414-555e86f4-6d3c-4ca0-b66e-34dafada7037.png" width="640" /></p>
 
 ## 얼굴 인식을 위한 OpenCV Python 프로그램
@@ -76,20 +76,20 @@
 * 출처: https://edykim.com/ko/post/the-super-tiny-compiler/, https://github.com/jamiebuilds/the-super-tiny-compiler
 * 요약: JavaScript 코드 단 200줄로 LISP 스타일(예: Racket, Scheme)의 코드를 C 스타일(예: C/C++/C#, Java, Python)의 코드로 컴파일하는 간단한 컴파일러 작성해보기
   ```
-                 LISP 스타일               C 스타일
+                 LISP 스타일                C 스타일
   2 + 2          (add 2 2)                 add(2, 2)
   4 - 2          (subtract 4 2)            subtract(4, 2)
   2 + (4 - 2)    (add 2 (subtract 4 2))    add(2, subtract(4, 2))
   ```
 
-## OpenCV 활용한 필터 씌우기
-* 분야: OpenCV
+## OpenCV를 활용한 필터 씌우기
+* 분야: 컴퓨터 비전
 * 출처: https://www.youtube.com/watch?v=XK3eU9egll8&t=3498s, https://www.youtube.com/watch?v=tpWVyJqehG4
-* 요약: OpenCV로 얼굴 인식 후 필터(캐릭터) 씌우기 (셀카 어플 또는 웹으로 디벨롭 가능)
+* 요약: OpenCV로 얼굴 인식 후 필터(캐릭터) 씌우기(셀카 어플 또는 웹으로 디벨롭 가능)
 <p align="center"><img src="https://images-kr.girlstyle.com/wp-content/uploads/2018/11/M_coverphoto_1000525_%E1%84%83%E1%85%A2%E1%84%8C%E1%85%B5-13.jpg" width="640" /></p>
 
 ## 아이들을 위한 감정 배우기 클래스
-* 분야: OpenCV
+* 분야: 컴퓨터 비전
 * 출처: https://m.blog.naver.com/roboholic84/221633210887
 * 요약: OpenCV로 표정 인식, 해당 표정에 대한 감정 형용사 배우기
 <p align="center"><img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA4MzBfMTUx/MDAxNTY3MTI3MjYyNzQz.fRdd_U-nyCWT9R9Tc8fCMfseh-lArm95_in8Wz2yqEsg.rWOWyaJBefDXNql0fL001TwLxJ_ts9LaLEsM7dPYAVYg.PNG.roboholic84/EM2.png?type=w800" width="640" /></p>
