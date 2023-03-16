@@ -35,7 +35,7 @@ Group repository for Software Engineering class spring semester 2023 in HGU
 # Group Meeting Records
 | :date: Date | :page_facing_up: Agenda | :boy::girl: Participant | 📋 TODO-List |
 |:---:|---|:---:|---|
-| 2023-03-16 | * The first meeting<br>* Topic brainstorming<br>* Choosing candidates<br>  - Extension plugin (e.g., VSC, Chrome, etc.)<br>  - Management system<br>  - Custom terminal<br>  - Improving HisTutor/Study | 우옥균, 고영광, 김현욱, 이용석, 박서휘, 임수현 | * Send consulting request mail to JC |
+| 2023-03-16 | <ul type="disc"><li>The first meeting</li><br><li>Topic brainstorming</li><br><li>Choosing candidates</li><br><li>Extension plugin (e.g., VSC, Chrome, etc.)</li><br><li>Management system</li><br><li>Custom terminal</li><br><li>Improving HisTutor/Study</li></ul> | 우옥균, 고영광, 김현욱, 이용석, 박서휘, 임수현 | <ul type="disc"><li>Send consulting request mail to JC</li></ul> |
 | 2023-03-23 | - | - | - |
 | 2023-03-30 | - | - | - |
 | 2023-04-06 | - | - | - |
