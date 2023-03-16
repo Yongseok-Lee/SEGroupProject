@@ -93,3 +93,9 @@
 * 출처: https://m.blog.naver.com/roboholic84/221633210887
 * 요약: OpenCV로 표정 인식, 해당 표정에 대한 감정 형용사 배우기
 <p align="center"><img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA4MzBfMTUx/MDAxNTY3MTI3MjYyNzQz.fRdd_U-nyCWT9R9Tc8fCMfseh-lArm95_in8Wz2yqEsg.rWOWyaJBefDXNql0fL001TwLxJ_ts9LaLEsM7dPYAVYg.PNG.roboholic84/EM2.png?type=w800" width="640" /></p>
+
+## VS Code Extension 만들기
+* 분야: 플러그인
+* 출처: https://minwook-shin.github.io/create-vscode-extension/, https://github.com/ryujt/vscode-extension-samples, https://www.youtube.com/watch?v=R671qx3m7vo&list=PL_K0yFEgjop8_1p0vRkgBPpepg6O8s4PS, https://github.com/ryujt/vscode-extension-samples/blob/main/docs/completions/001.md
+* 요약: TypeScript로 키워드 자동 완성 기능을 가진 간단한 VS Code 확장 플러그인(extension) 개발해보기
+<p align="center"><img src="https://user-images.githubusercontent.com/49047536/225537214-5c0303b8-96f4-42e9-a3a9-ee33884bca83.png" width="640" /></p>
