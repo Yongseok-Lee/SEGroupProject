@@ -74,7 +74,7 @@
 ## 아주 조그마한 컴파일러 만들기
 * 분야: 컴파일러
 * 출처: https://edykim.com/ko/post/the-super-tiny-compiler/, https://github.com/jamiebuilds/the-super-tiny-compiler
-* 요약: JavaScript 코드 단 200줄로 LISP 스타일(예: Racket, Scheme)의 코드를 C 스타일(예: C/C++/C#, Java, Python)의 코드로 컴파일하는 간단한 컴파일러 작성해보기
+* 요약: JavaScript 코드 단 200여 줄로 LISP 스타일 코드(예: Racket, Scheme)를 C 스타일 코드(예: C/C++/C#, Java, Python)로 컴파일하는 간단한 컴파일러 작성해보기
   ```
                  LISP 스타일                C 스타일
   2 + 2          (add 2 2)                 add(2, 2)
