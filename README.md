@@ -33,17 +33,17 @@ Group repository for Software Engineering class spring semester 2023 in HGU
 ## 5. Validation
 
 # Group Meeting Records
-| :date: Date | :page_facing_up: Agenda | :boy::girl: Participant |
-|:---:|---|:---:|
-| 2023-03-16 | - The first meeting<br>- Topic brainstorming and setting | 우옥균, 고영광, 김현욱, 이용석, 박서휘, 임수현 |
-| 2023-03-23 | - | - |
-| 2023-03-30 | - | - |
-| 2023-04-06 | - | - |
-| 2023-04-13 | - | - |
-| 2023-04-27 | - | - |
-| 2023-05-04 | - | - |
-| 2023-05-11 | - | - |
-| 2023-05-18 | - | - |
-| 2023-05-25 | - Final presentation preparation | 우옥균, 고영광, 김현욱, 이용석, 박서휘, 임수현 |
+| :date: Date | :page_facing_up: Agenda | :boy::girl: Participant | 📋 TODO-List |
+|:---:|---|:---:|---|
+| 2023-03-16 | * The first meeting<br>* Topic brainstorming<br>* Choosing candidates<br>  - Extension plugin (e.g., VSC, Chrome, etc.)<br>  - Management system<br>  - Custom terminal<br>  - Improving HisTutor/Study | 우옥균, 고영광, 김현욱, 이용석, 박서휘, 임수현 | * Send consulting request mail to JC |
+| 2023-03-23 | - | - | - |
+| 2023-03-30 | - | - | - |
+| 2023-04-06 | - | - | - |
+| 2023-04-13 | - | - | - |
+| 2023-04-27 | - | - | - |
+| 2023-05-04 | - | - | - |
+| 2023-05-11 | - | - | - |
+| 2023-05-18 | - | - | - |
+| 2023-05-25 | - Final presentation preparation | 우옥균, 고영광, 김현욱, 이용석, 박서휘, 임수현 | - |
 
 # References
