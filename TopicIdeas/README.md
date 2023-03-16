@@ -98,4 +98,5 @@
 * 분야: 플러그인
 * 출처: https://minwook-shin.github.io/create-vscode-extension/, https://github.com/ryujt/vscode-extension-samples, https://www.youtube.com/watch?v=R671qx3m7vo&list=PL_K0yFEgjop8_1p0vRkgBPpepg6O8s4PS, https://github.com/ryujt/vscode-extension-samples/blob/main/docs/completions/001.md
 * 요약: TypeScript로 키워드 자동 완성 기능을 가진 간단한 VS Code 확장 플러그인(extension) 개발해보기
+<p align="center"><img src="https://user-images.githubusercontent.com/49047536/225540828-b14ef7be-ee6a-43c7-a34d-519976048209.png" width="640" /></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/49047536/225537214-5c0303b8-96f4-42e9-a3a9-ee33884bca83.png" width="640" /></p>
