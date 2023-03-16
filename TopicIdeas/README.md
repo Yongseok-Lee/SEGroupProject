@@ -21,13 +21,13 @@
 ## 안드로이드 작업 모니터링 앱
 * 분야: 모바일 앱, AI
 * 출처: https://nevonprojects.com/android-task-monitoring/, https://youtu.be/17tTWjfgVNI
-* 요약: 안드로이드 기기용 주간 작업 알림 시스템을 기반으로 하여 매일 예정된 일정/약속을 사용자에게 알리는 AI 챗봇 기반의 리마인더 앱
+* 요약: 매일 예정된 일정/약속을 사용자에게 알리는 AI 챗봇 기반의 안드로이드 기기용 리마인더 앱
 <p align="center"><img src="https://user-images.githubusercontent.com/49047536/224932739-45565b76-8cbc-4831-a3f6-b44f079631c5.png" width="640" /></p>
 
 ## 버그 추적 시스템
 * 분야: 웹 서비스
 * 출처: https://nevonprojects.com/ebug-tracker-bug-tracking-system-project/
-* 요약: 프로젝트나 시스템에서 버그를 식별하고 추적하는데 도움을 주며, 관리자, 직원 및 사용자 세 가지 모듈이 있어 각각 역할에 맞게 프로젝트 관리 및 문제 해결을 할 수 있게 해주는 웹 앱
+* 요약: 프로젝트나 시스템에서 버그를 식별하고 추적하는 데에 도움을 주며, 관리자, 직원 및 사용자 세 가지 모듈이 있어 각각 역할에 맞게 프로젝트 관리 및 문제 해결을 할 수 있게 해주는 웹앱
 
 ## Python으로 스타듀밸리(Stardew Valley) 게임 만들기
 * 분야: 게임, 데스크탑 앱
