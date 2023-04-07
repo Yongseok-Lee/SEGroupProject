@@ -2,17 +2,17 @@
 Group repository for Software Engineering class spring semester 2023 in HGU
 
 ## 🗂️ Table of Contents
-🔗 Quick Links
-👨🏻‍💻 Group Members 👩🏻‍💻
-💡 Project Introduction
-🏃🏻 Process Activities
+> 🔗 Quick Links
+> 👨🏻‍💻 Group Members 👩🏻‍💻
+> 💡 Project Introduction
+> 🏃🏻 Process Activities
 > 0. Specification
 > 1. Design
 > 2. Implementation
 > 3. Validation
 > 4. Deployment
-🕓 Group Meeting Records
-※ References
+> 🕓 Group Meeting Records
+> ※ References
 
 ## 🔗 Quick Links
 
