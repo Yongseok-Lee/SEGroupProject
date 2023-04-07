@@ -9,28 +9,28 @@ Group repository for Software Engineering class spring semester 2023 in HGU
 > * 22000263, 박서휘
 > * 22000612, 임수현
 
-### 🗂️ Contents
+### 🗂️ Table of Contents
 > 0. Project Introduction
-> 1. Requirement Engineering
-> 2. System Modeling
-> 3. Architectural Design
-> 4. Design & Implementation
-> 5. Validation
+> 1. Specification
+> 2. Design
+> 3. Implementation
+> 4. Validation
+> 5. Deployment
 
 ## 0. Project Introduction
-### 💡 (Project name/topic here)
+### 💡 HISPlan
 > ### ▪️ Project Description
 > * (Project description here)
 
-## 1. Requirement Engineering
+## 1. Specification
 
-## 2. System Modeling
+## 2. Design
 
-## 3. Architectural Design
+## 3. Implementation
 
-## 4. Design & Implementation
+## 4. Validation
 
-## 5. Validation
+## 5. Deployment
 
 # Group Meeting Records
 | :date: Date | :page_facing_up: Agenda | :boy::girl: Participant | 📋 TODO-List |
