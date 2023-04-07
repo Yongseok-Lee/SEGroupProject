@@ -1,18 +1,19 @@
 # Software Engineering Group Project
-Group repository for Software Engineering class spring semester 2023 in HGU
+> Group repository for Software Engineering class spring semester 2023 in HGU
 
 ## 🗂️ Table of Contents
-> #### 🔗 Quick Links
-> #### 👨🏻‍💻 Group Members 👩🏻‍💻
-> #### 💡 Project Introduction
-> #### 🏃🏻 Process Activities
-> ##### 0. Specification
-> ##### 1. Design
-> ##### 2. Implementation
-> ##### 3. Validation
-> ##### 4. Deployment
-> #### 🕓 Group Meeting Records
-> #### ※ References
+> 🔗 Quick Links<br>
+> 👨🏻‍💻 Group Members 👩🏻‍💻<br>
+> 💡 Project Introduction<br>
+> 🏃🏻 Process Activities
+> 
+> 0. Specification
+> 1. Design
+> 2. Implementation
+> 3. Validation
+> 4. Deployment
+> 
+> 🕓 Group Meeting Records
 
 ## 🔗 Quick Links
 
@@ -57,5 +58,3 @@ Group repository for Software Engineering class spring semester 2023 in HGU
 | 2023-05-11 | <ul type="disc"><li>11th meeting</li></ul> | - | - |
 | 2023-05-18 | <ul type="disc"><li>12th meeting</li></ul> | - | - |
 | 2023-05-25 | <ul type="disc"><li>Final meeting</li><li>Final presentation preparation</li></ul> | 우옥균, 고영광, 김현욱, 이용석, 박서휘, 임수현 | - |
-
-## ※ References
