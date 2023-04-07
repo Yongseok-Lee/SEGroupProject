@@ -1,8 +1,7 @@
 # Software Engineering Group Project
-> Group repository for Software Engineering class spring semester 2023 in HGU
+Group repository for Software Engineering class spring semester 2023 in HGU
 
 ## 🗂️ Table of Contents
-> 🔗 Quick Links<br>
 > 👨🏻‍💻 Group Members 👩🏻‍💻<br>
 > 💡 Project Introduction<br>
 > 🏃🏻 Process Activities
@@ -13,9 +12,8 @@
 > 3. Validation
 > 4. Deployment
 > 
-> 🕓 Group Meeting Records
-
-## 🔗 Quick Links
+> 🕓 Group Meeting Records<br>
+> 🔗 External Links
 
 ## 👨🏻‍💻 Group Members 👩🏻‍💻
 > * 21600437, 우옥균
@@ -58,3 +56,8 @@
 | 2023-05-11 | <ul type="disc"><li>11th meeting</li></ul> | - | - |
 | 2023-05-18 | <ul type="disc"><li>12th meeting</li></ul> | - | - |
 | 2023-05-25 | <ul type="disc"><li>Final meeting</li><li>Final presentation preparation</li></ul> | 우옥균, 고영광, 김현욱, 이용석, 박서휘, 임수현 | - |
+
+## 🔗 External Links
+* [Project Drive (Google)](https://drive.google.com/drive/folders/1rWRHikfVBgiWrjBESxA7TOUYHAg5EwgR?usp=sharing)
+* [Front-End Layouts (Figma)](https://www.figma.com/file/ZMfNi93eVmKwnPYyeumoDL/Frontend-Layouts?node-id=0%3A1&t=UjplLbY1ffW3dfLo-1)
+* [Project Workspace (Notion)](https://flax-damselfly-ed3.notion.site/SE-521723ee28f541b298a9431b84808530)
