@@ -42,7 +42,7 @@ Group repository for Software Engineering class spring semester 2023 in HGU
 > * Architectural Design (MVC model)
 > * (Architecture diagram here)
 > * UML diagram (sequence diagram)
-> -* (Sequence diagram here)
+> * (Sequence diagram here)
 
 ### 2. Implementation
 
