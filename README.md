@@ -71,6 +71,7 @@ Group repository for Software Engineering class spring semester 2023 in HGU
 | 2023-05-25 | 16 | 16:00-18:00</br>[offline] | <ul type="disc"><li>System Development</li><ul type="Circle"><li>Implement profile page, homepage weather, D-day and Todo list widget</li><li>Test Publishing</li></ul></ul> | 우옥균,</br> 고영광,</br> 김현욱,</br> 이용석,</br> 박서휘,</br> 임수현 |
 | 2023-05-27 | 17 | 13:00-18:30</br>[offline] | <ul type="disc"><li>System Development</li><ul type="Circle"><li>Implement group member page, sign up customization</li><li>Test Publishing and Testing</li></ul></ul> | 우옥균,</br> 고영광,</br> 김현욱,</br> 이용석,</br> 박서휘,</br> 임수현 |
 | 2023-05-31 | 18 | 13:00-24:00</br>[offline] | <ul type="disc"><li>System Development</li><ul type="Circle"><li>Implement Ranking page, reporting page</li><li>Check GroupMatching</li><li>Testing Total Website</li></ul><li>***Making slides and documents for final presentation***</li></ul> | 우옥균,</br> 고영광,</br> 김현욱,</br> 이용석,</br> 박서휘,</br> 임수현 |
+| 2023-06-02 | 19 | 14:00-18:00</br>[offline] | <ul type="disc"><li>Finalizing slides and documents</li><li>Changing home design</li></ul> | 우옥균,</br> 고영광,</br> 김현욱,</br> 이용석,</br> 박서휘,</br> 임수현 |
 
 ## 🔗 External Links
 * [Project Drive (Google)](https://drive.google.com/drive/folders/1rWRHikfVBgiWrjBESxA7TOUYHAg5EwgR?usp=sharing)
